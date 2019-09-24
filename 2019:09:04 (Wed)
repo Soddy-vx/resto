@@ -1,0 +1,54 @@
+2019/09/04 (Wed)
+2019/09/05(Thu)
+後やることは、Restaurant Edit PageにImage edit()
+2019/09/09(Fri)
+Adminではない方の閲覧用のIndex.phpとAdminのfunction.phpはどう
+
+
+How to show modal(Restaurant details when I click View button).
+In script - functions.php?do=showModal showmodal()
+		  - select restaurant table 
+          - put it in JSON format
+          - write it within <script> with row[i].name..etc
+          - 
+          -
+          -
+          -
+
+
+
+
+[CHALLENGE]
+Using the unfinished php app from above
+1. Create your own database and complete the task/feature list
+CRUD functions for DB
+CREATE
+ DONE - create users (register)
+ DONE - create restaurants (add restaurant)
+READ
+ DOOOONE- - search users
+ DONE - - user login
+DONE - read restaurant table (display restaurants)
+DONE - - search restaurants
+UPDATE
+DOOOOONE- update user (update profile)
+DOOOOONE-update restaurant (update restaurant)
+DELETE
+- delete restaurant
+2. Create database tables as follows:
+LIST of DB Tables
+restaurants table
+- name
+- location
+- type of food - array
+- price range
+- picture
+Users table
+- email
+- password
+3. Style index.php according to https://dribbble.com/shots/3226909-Food-UI-Kit#shot-description
+3.1. Add App Name and Logo
+3.2. Change Colors
+3.3. Add background image
+4. Use php file upload to upload restaurant pictures
+5. Use https://www.cssscript.com/demo/creating-a-star-rating-widget-with-pure-html-css/ to replace the Price range dropdown. Change the icon to Dollars or yen (edited) 
