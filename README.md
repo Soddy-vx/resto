@@ -13,4 +13,4 @@
 ![badge](https://img.shields.io/badge/Language-PHP-yellow.svg)   
 
 ## Author
-[Sodai Hirano](https://github.com/tcnksm)
+[Sodai Hirano](https://github.com/Soddy-vx)
